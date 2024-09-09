@@ -12,7 +12,7 @@
 ### <div align="center">I am a game developer from China, currently engaged in developing independent games using Unity.</div>
 
 
-- 🔭 I’m currently looking for internship
+- 🔭 I'm currently developing a Metroidvania-style puzzle game called "MOON."
 
 
 - 🌱 I’m currently learning Computer Graphics and Game design
@@ -21,7 +21,7 @@
 - ❓ You can Email Me Through [Here](mailto:grayastora@gmail.com)
 
 
-- ⚡ Fun fact: I am an independent game player. <img src="https://drive.google.com/uc?id=1y-EaOmyCIG8AKJJpzWlyDlcabHs8tST1" style="width:20px"/>
+- ⚡ Fun fact: My favorite documentaries are "Indie Game: The Movie" and "Ryuichi Sakamoto: Coda." <img src="https://drive.google.com/uc?id=1y-EaOmyCIG8AKJJpzWlyDlcabHs8tST1" style="width:20px"/>
 
 <br/>  
 
